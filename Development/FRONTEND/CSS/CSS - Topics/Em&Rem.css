@@ -1,0 +1,33 @@
+#outer {
+    height: 200px;
+    width: 200px;
+    background-color: aqua;
+    border: 2px solid black;
+    font-size: 10px;
+}
+
+#inner {
+    height: 80px;
+    width: 80px;
+    background-color: brown;
+    font-size: 1.5em;
+    padding: 1em;
+}
+
+button {
+    font-size: 40px;
+    border-radius: 20px;
+    border: 2px solid green;
+    padding-left: 1em;
+    padding-right: 1em;
+
+
+}
+
+section {
+    font-size: 20px;
+}
+
+div {
+    font-size: 0.8em;
+}

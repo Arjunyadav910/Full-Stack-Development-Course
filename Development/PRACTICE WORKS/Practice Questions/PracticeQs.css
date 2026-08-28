@@ -1,0 +1,93 @@
+/* Practice Qs10
+
+h2{
+    color:orange;
+}
+
+button{
+    color:white;
+    background-color: blue;
+}
+
+p{
+    background-color: black;
+    color: white;
+}
+
+
+Practice Qs11
+
+h1 { 
+   color:rgb(255,255,255); 
+   color:rgb(255,255,0); 
+   color:rgb(0,255,255);
+
+ }  */
+
+
+
+/* Practice Qs12 */
+
+/* h1 {
+    font-family: League spartan;
+    color: #ffa511;
+    text-align: center; 
+    font-size: 55px;
+    font-weight: 900;
+    letter-spacing: 2px;
+    line-height: 1.5;
+    text-decoration: teal double underline;
+    text-transform: uppercase;
+      
+} */
+
+
+/* CSS Chapter 2 (Downloaded) Practice Qs13 */
+
+/* * {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1 {
+    color: #1b74e4;
+}
+
+#searchbtn {
+    background-color: black;
+    color: white;
+}
+
+.userbtn {
+    background-color: aqua;
+    
+} */
+
+
+/* PracticeQs 14 */
+
+#outer {
+    height: 200px;
+    width: 70px;
+    border: 2px solid black;
+}
+
+#inner{
+    height: 50px;
+    width: 50px;
+    border: 2px solid black;
+    margin: 10px;
+    border-radius: 50%;
+
+}
+
+.red {
+    background-color: red;
+}
+
+.yellow {
+    background-color: yellow;
+}
+
+.green {
+    background-color: green;
+}
